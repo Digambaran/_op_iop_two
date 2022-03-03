@@ -1,0 +1,1 @@
+{"name":"iop_two","type":"ui-elements","source":{"https":"https://github.com/Digambaran/_op_iop_two","ssh":"git@github.com:Digambaran/_op_iop_two.git"},"language":"nodejs","start":"npm run start","build":"npm run build","postPull":"npm i"}
